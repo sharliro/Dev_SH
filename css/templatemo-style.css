@@ -33,6 +33,9 @@ body {
   font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
 }
+.logosh{
+  width: 60px;
+}
 body {
   font: 16px/1.6 'Raleway', Arial, Helvetica, sans-serif;
   color: #fff;
